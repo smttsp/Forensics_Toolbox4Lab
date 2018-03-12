@@ -4,8 +4,8 @@ addpath('Util/jpegtbx_1.4/')
 
 addpath('Algorithms/')
 
-% im = 'images/jedi-master.jpg'
-im = 'images/demo5.jpg'
+im = 'images/jedi-master.jpg'
+% im = 'images/demo5.jpg'
 
 disp('-------------------ADQ1---------------------')
 disp('Fast, automatic and fine-grained tampered JPEG image detection via DCT coefficient analysis.')
